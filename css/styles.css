@@ -1,0 +1,70 @@
+body {
+  margin: 0px;
+  font-family: monospace;
+  font-size: 1.25em;
+  text-align: center;
+}
+
+/* Navbar */
+.navbar {
+  padding: 0px;
+  width: 100%;
+  position: fixed;
+  z-index: 2;
+}
+.navbar-brand {
+  font-size: 18px;
+  font-weight: bold;
+}
+.social {
+  padding-right: 10px;
+}
+
+/* Header */
+.hola {
+  padding-top: 200px;
+  position: relative;
+  text-align: center;
+  color: white;
+  background-image: url(../img/background_image.png);
+  height: 450px;
+  z-index: 1;
+}
+
+/* About me */
+.me {
+  height: auto;
+  padding: 100px;
+  padding-bottom: 50px;
+  color: black;
+  text-align: center;
+}
+/* Skills */
+.skills {
+  padding-top: 55px;
+  padding-left: 100px;
+  padding-right: 100px;
+  padding-bottom: 55px;
+  background-color: #d4d4d4;
+  text-align: center;
+}
+
+.col {
+  margin-right: 50px;
+}
+.progress-bar {
+  text-align: left;
+  padding-left: 10px;
+}
+
+/* Contacto */
+.contact {
+  padding-top: 40px;
+  padding-left: 100px;
+  padding-right: 100px;
+  padding-bottom: 50px;
+}
+
+.bi-envelope {
+  color: black;
+}
